@@ -1,7 +1,7 @@
-# Example/ styling using language attributes Arabic & English
+# Example with CSS Pseudo-classes / Styling using language attributes Arabic & English
 
 
-Further discussion of this usage can be found in the [W3C CSS specification](http://www.w3.org/TR/css3-selectors/#lang-pseudo).
+CSS Pseudo-classes / further discussion of this usage can be found in the [W3C CSS specification](http://www.w3.org/TR/css3-selectors/#lang-pseudo).
 
 
 
