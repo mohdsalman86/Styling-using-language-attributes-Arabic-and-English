@@ -1,0 +1,55 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
+
+
+body {
+background-color: #ccc;
+}
+h3 {
+margin: 2em 0;
+font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+font-size: 25px;
+
+}
+div {
+line-height: 1.5em
+}
+.bahrain {
+background-color: #f00;
+color: #fff;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+ text-align:right;
+}
+.bahrain .bahrain {
+background-color: #fff;
+color: #000;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+  text-align:right;
+}
+.bahrain .bahrain .bahrain {
+background-color: #bc0000;
+color: #fff;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+  text-align:right;
+}
+.usa {
+background-color: #f00;
+color: #ff0;
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
+.usa .usa {
+background-color: #3875D7;
+color: #000;
+
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
+.usa .usa .usa {
+background-color: #000;
+color: #ff0;
+line-height: 1.5em;
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
