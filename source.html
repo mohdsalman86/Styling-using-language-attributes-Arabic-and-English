@@ -1,0 +1,84 @@
+<html lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript,Arabic">
+<meta name="author" content="Mohammed Salman - demmahom">
+<title>مـــــــــــــــــــــــــــــثال - محمد سلمان</title>
+<style>
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
+
+
+body {
+background-color: #ccc;
+}
+h3 {
+margin: 2em 0;
+font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+font-size: 25px;
+
+}
+div {
+line-height: 1.5em
+}
+.bahrain {
+background-color: #f00;
+color: #fff;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+ text-align:right;
+}
+.bahrain .bahrain {
+background-color: #fff;
+color: #000;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+  text-align:right;
+}
+.bahrain .bahrain .bahrain {
+background-color: #bc0000;
+color: #fff;
+ font-family: "Droid Arabic Kufi",Helvetica,Arial,sans-serif;
+  text-align:right;
+}
+.usa {
+background-color: #f00;
+color: #ff0;
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
+.usa .usa {
+background-color: #3875D7;
+color: #000;
+
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
+.usa .usa .usa {
+background-color: #000;
+color: #ff0;
+line-height: 1.5em;
+ font-family: Helvetica,Arial,sans-serif;
+  text-align:left;
+}
+</style>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+</head>
+<body>
+<h3>اللغة العربية</h3>
+<div lang="ar-bah">احمر 
+<div>ابيض 
+<div> ماروني</div>
+</div>
+</div>
+<h3>English</h3>
+<div lang="en-us">Red
+<div>Blue
+<div>Black</div>
+</div>
+</div>
+<script>
+$( "div:lang(ar-bah)" ).addClass( "bahrain" );
+$( "div:lang(en-us)" ).addClass( "usa" );
+</script>
+</body>
+</html>

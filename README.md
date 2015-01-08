@@ -1,0 +1,29 @@
+# Example/ styling using language attributes Arabic & English
+
+
+Further discussion of this usage can be found in the [W3C CSS specification](http://www.w3.org/TR/css3-selectors/#lang-pseudo).
+
+
+### Instructions
+
+Open a Skeleton-gh-pages > "examples" folder   > "landing" folder  > index.html
+ 
+Just overwrite it the below or download and enjoy it:
+
+examples > landing > css 
+
+```
+custom.css
+```
+
+## License
+
+*1-Arabic Google Font* - Droid Arabic Kufi[Apache License, version 2.0](http://fonts.gstatic.com/ea/droidarabickufi/v6/LICENSE.txt).
+
+*2- jQuery - Under the terms of the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
+
+*3- HTML and CSS and HTML script tag
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Styling using language attributes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.demmahom.info" property="cc:attributionName" rel="cc:attributionURL">www.demmahom.info</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mohdsalman86/RTL-Arabization-skeleton-framework" rel="dct:source">https://github.com/mohdsalman86/Styling-using-language-attributes-Arabic-and-English</a>.
+
+ 
