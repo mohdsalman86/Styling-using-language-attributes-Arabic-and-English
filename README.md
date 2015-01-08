@@ -4,20 +4,7 @@
 Further discussion of this usage can be found in the [W3C CSS specification](http://www.w3.org/TR/css3-selectors/#lang-pseudo).
 
 
-### Instructions
-
-Open a Skeleton-gh-pages > "examples" folder   > "landing" folder  > index.html
- 
-Just overwrite it the below or download and enjoy it:
-
-examples > landing > css 
-
-```
-custom.css
-```
-
 ## License
-
 *1-Arabic Google Font* - Droid Arabic Kufi[Apache License, version 2.0](http://fonts.gstatic.com/ea/droidarabickufi/v6/LICENSE.txt).
 
 *2- jQuery - Under the terms of the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
